@@ -1,0 +1,11 @@
+name1:
+  color: "#FF5733"  # 标签的颜色，可以使用颜色代码或颜色名称
+  description: "描述标签1"
+
+name2:
+  color: "#0099CC"
+  description: "描述标签2"
+
+name3:
+  color: "#FFCC00"
+  description: "描述标签3"
