@@ -76,7 +76,10 @@ System.out.println(Arrays.toString(a));
 
 值传递 和 引用传递
 
-![[notion-avatar-1693986627987.png|notion-avatar-1693986627987.png]]
+
+![00000-1196744786.png](https://pic.yxizo.com/test/2023/11/00000-1196744786.png)
+
+
 
 
 ## 数组算法
