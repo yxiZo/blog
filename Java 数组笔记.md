@@ -72,6 +72,12 @@ System.out.println(Arrays.toString(a));
 > 其实就是自动类型转换的知识点
 > 高精度可以兼容低精度, 低精度则不能向上,否则会出现精度丢失
 
+## 数组赋值机制
+
+值传递 和 引用传递
+
+![[notion-avatar-1693986627987.png|notion-avatar-1693986627987.png]]
+
 
 ## 数组算法
 
@@ -85,6 +91,16 @@ public class BubbleSort{
 }
 
 ```
+
+归并排序
+```java
+```
+
+快速排序
+```java
+
+```
+
 
 ## 额外补充
 ### Java Scanner
