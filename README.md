@@ -1,2 +1,2 @@
 # blog
- 博客记录
+详见Issues
